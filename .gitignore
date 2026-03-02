@@ -1,0 +1,37 @@
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+*.pyc
+__pycache__/
+
+# Python
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+
+# Archives & binaries
+*.tar.gz
+*.tgz
+*.zip
+*.gz
+*.bz2
+*.7z
+*.rar
+
+# Compiled / executables
+*.so
+*.dylib
+*.dll
+*.exe
+*.o
+*.a
+
+# Stray local binaries
+obscura
+obscura-worker
